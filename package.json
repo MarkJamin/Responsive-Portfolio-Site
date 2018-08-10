@@ -1,0 +1,14 @@
+{
+  "name": "marksite",
+  "version": "1.0.0",
+  "description": "website project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Mark Jamin",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
