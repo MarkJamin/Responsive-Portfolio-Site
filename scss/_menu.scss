@@ -45,7 +45,6 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
   visibility: hidden;
 
   &.show {
@@ -71,6 +70,10 @@
     list-style: none;
     transform: translate3d(0, -100%, 0);
     @include easeOut;
+
+   &-branding{
+    background: rgba($primary-color, 0.9);
+   }
 
     &.show {
       // Slide in from top
