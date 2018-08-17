@@ -1,1 +1,14 @@
-# responsive-portfolio-site
+#  Responsive Site Portfolio
+
+Languages Used:
+
+  - HTML5
+  - CSS / SCSS
+  - Javascript
+
+# Link to Github, Github Page & My Website
+
+  - [Github Page](https://markjamin.github.io/Responsive-Portfolio-Site/)
+  - [Personal Website](http://markjamin.com)
+
+Thank you for reading enjoy your day!
