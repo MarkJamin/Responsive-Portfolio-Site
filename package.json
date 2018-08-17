@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "website project",
   "main": "index.js",
+  "homepage": "https://github.com/MarkJamin/Responsive-Portfolio-Site",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Mark Jamin",
   "license": "MIT",
