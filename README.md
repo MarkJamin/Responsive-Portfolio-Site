@@ -8,7 +8,7 @@ Languages Used:
 
 # Link to Github, Github Page & My Website
 
-  - [Github Page](https://markjamin.github.io/Responsive-Portfolio-Site/)
+  - [Responsive Site Portfolio-Github Page](https://markjamin.github.io/Responsive-Portfolio-Site/)
   - [Personal Website](http://markjamin.com)
 
 Thank you for reading enjoy your day!
